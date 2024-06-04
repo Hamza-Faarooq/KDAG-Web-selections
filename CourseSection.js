@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 const SectionContainer = styled.div`
-  margin-bottom: 20px;
+  margin-bottom: 20px; 
 `;
 const SectionTitle = styled.h2`
   color: ${(props) => props.theme.palette.primary.main};
